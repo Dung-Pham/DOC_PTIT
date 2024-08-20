@@ -1,5 +1,5 @@
 # PTIT DOCUMENTS
-$\color{teal}\Large{{\textbf{1. Nhập môn KHDL}}}$
+$\color{lime}\Large{{\textbf{1. Nhập môn KHDL}}}$
 
 | Groups            | Link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -8,7 +8,7 @@ $\color{teal}\Large{{\textbf{1. Nhập môn KHDL}}}$
 | Nhóm | [Zalo](https://linktodocumentation) |
 
 
-$\color{teal}\Large{{\textbf{2. Lập trình mạng}}}$
+$\color{lime}\Large{{\textbf{2. Lập trình mạng}}}$
 
 | Groups            | Link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -16,7 +16,7 @@ $\color{teal}\Large{{\textbf{2. Lập trình mạng}}}$
 | Nhóm | [Zalo](https://linktodocumentation) |
 
 
-$\color{teal}\Large{{\textbf{3. PTTK HTTT}}}$
+$\color{lime}\Large{{\textbf{3. PTTK HTTT}}}$
 
 | Groups            | Link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -24,7 +24,7 @@ $\color{teal}\Large{{\textbf{3. PTTK HTTT}}}$
 | Nhóm | [Zalo](https://linktodocumentation) |
 
 
-$\color{teal}\Large{{\textbf{4. QLDAPM}}}$
+$\color{lime}\Large{{\textbf{4. QLDAPM}}}$
 
 | Groups            | Link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -32,7 +32,7 @@ $\color{teal}\Large{{\textbf{4. QLDAPM}}}$
 | Nhóm | [Zalo](https://linktodocumentation) |
 
 
-$\color{teal}\Large{{\textbf{5. XLA}}}$
+$\color{lime}\Large{{\textbf{5. XLA}}}$
 
 | Groups            | Link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -41,7 +41,7 @@ $\color{teal}\Large{{\textbf{5. XLA}}}$
 | DiemDanh_KQ_TKB| [Sheet](https://docs.google.com/spreadsheets/d/14l0jyLVEIhNaBc6OfxUwibf5OSmP4VEY/edit?gid=2089408252#gid=2089408252) |
 | Nhóm | [Zalo](https://linktodocumentation) |
 
-$\color{teal}\Large{{\textbf{6. IOT}}}$
+$\color{lime}\Large{{\textbf{6. IOT}}}$
 
 | Groups            | Link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
