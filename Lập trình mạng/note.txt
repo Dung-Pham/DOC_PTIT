@@ -1,0 +1,57 @@
+Lập trình mạng - học kì I - 2024-2025
+Đặng Ngọc Hùng - CNPM
+--------------------------------------
+1. Giới thiệu
+Lập trình (OOP - Java)  + Mạng (Computer Network)
+--> Xây dựng phần mềm/công cụ/hệ thống có giao tiếp (gửi nhận dữ liệu)
+qua mạng.
+    1) Socket (TCP + UDP) 
+    2) Đa luồng (Thread - luồng xử lý - Java)
+    3) Phân tán (RMI - Java)
+    4) Web Service (XML)
+
+---> 10 bài học
+    1) Giới thiệu và nhắc lại các khái niệm cơ bản
+    2) Stream (Luồng dữ liệu)
+    3) Thread (luồng xử lý)
+    4) TCP Socket
+    5) HTTP/SMTP/FTP
+    6) UDP Socket
+    7) NIC/Multicast
+    8) RMI
+    9) WS
+    10) Topic (2024 - I/O, Web...)
+
+----> 15-16 tuần + 3 buổi TH
+2. Đánh giá
+    -- CC 10% -- điểm danh --
+    -- TBKT 20%     -- phòng máy  -- cá nhân
+        + KT1 60' TCP 5 bài (4-6-8-9-10)
+        --> TCP Server 
+        --> (id) Tạo đề bài trong đó có kịch bản giao tiếp với Server
+        --> Yêu cầu: Viết TCP Client giao tiếp với server theo đề
+        + KT2 60' UDP 5 bài (4-6-8-9-10)
+        --> Tương tự, UDP Server
+    
+    -- BTL 20% (+ điểm thi KTHP) --- nhóm --- tối đa 3 người.
+        - Đánh giá theo tiến trình (1-2-3) 
+            --> Github classroom --> source control --> commit
+            --> readme.md
+        - Chủ đề A B C 
+        
+    --- Thi KTHP 50% --- phòng máy -- cá nhân
+        - 60'   TCP UDP RMI WS ... (4-6-8-9-10)
+ 
+ 3. Cách thức làm việc
+    -- Tất cả trao đổi/thảo luận
+            facebook.com/groups/ltm2024
+    
+    -- Email: hungdn@ptit.edu.vn
+    
+4. Học liệu
+    1.  Java network programming, 4th, 2013.
+ 
+ 
+ 
+
+
